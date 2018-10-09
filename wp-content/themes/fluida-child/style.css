@@ -1,0 +1,303 @@
+/*
+ Theme Name:   Fluida child
+ Description:  Fluida Child Theme
+ Author:       Audrey Guilloud
+ Template:     fluida
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, responsive-layout, accessibility-ready
+ Text Domain:  fluida-child
+*/
+
+
+/*bandeau*/
+
+.bandeau {
+    overflow-y: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    height: 280px;
+    background-color: yellow;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -60px;
+}
+
+.bandeau_img {
+    width: 100%;
+}
+
+.container_titre {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.3);
+    padding: 50px;
+    border: 10px double white;
+    text-shadow: 2px 1px 2px #777373;
+}
+
+.bandeau_titre {
+    color: white;
+    text-transform: uppercase;
+    font-size: 5em;
+    margin-top: -10px;
+}
+
+.bandeau_desc {
+    color: white;
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: -30px;
+}
+
+
+/*valeurs*/
+
+.valeurs {
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: auto;
+}
+
+.image1,
+.image2,
+.image3,
+.image4 {
+    width: 70px;
+    height: 70px;
+    background-size: cover;
+}
+
+.p1,
+.p2,
+.p3,
+.p4 {
+    width: 150px;
+    font-size: 0.8em;
+}
+
+
+/*ou trouver*/
+
+.outrouver {
+    height: 100px;
+    background: white;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    line-height: 100px;
+}
+
+iframe {
+    margin-left: 30px;
+}
+
+.outrouverh3 {
+    text-align: center;
+}
+
+.bloc_outrouver {
+    display: flex;
+}
+
+.bloc_outrouver1 {
+    width: 40%;
+    background: white;
+    margin-bottom: 40px;
+}
+
+.bloc_outrouver2 {
+    width: 30%;
+    background: white;
+    margin-bottom: 40px;
+    padding-left: 40px;
+    border-left: 1px solid grey;
+}
+
+.bloc_outrouver3 {
+    width: 30%;
+    background: white;
+    padding-left: 40px;
+    border-left: 1px solid grey;
+    margin-bottom: 40px;
+}
+
+.bloc_outrouver2>h5 {
+    color: #5bc0de;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.bloc_outrouver2>p>span {
+    color: #dd4321;
+    font-weight: bold;
+}
+
+.bloc_outrouver3>h5 {
+    color: #006f45;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+
+/*dernières news*/
+
+.lastnews {
+    background: white;
+    margin-bottom: 50px;
+}
+
+.lastnewstitle {
+    height: 100px;
+    background: white;
+    margin-top: 50px;
+}
+
+.lastnewsh3 {
+    line-height: 100px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+
+/*qui sommes-nous ?*/
+
+.bandeau_qui {
+    height: 250px;
+    background-size: cover;
+    background-position-y: -100px;
+    background-repeat: no-repeat;
+}
+
+
+/* single page prods */
+
+.bandeauprod {
+    height: 250px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photoprods {
+    width: 100
+}
+
+
+/*producteurs*/
+
+.thumbnail {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background: #5bc0de;
+    background-size: cover;
+    margin-top: 20px;
+}
+
+.page_producteurs {
+    padding: 50px 100px;
+    margin: auto;
+    background: white;
+}
+
+.producteurs {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    padding-bottom: 50px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.producteur {
+    width: 200px;
+}
+
+
+/*produits*/
+
+.bandeau_produits {
+    height: 250px;
+    background-size: cover;
+}
+
+.cat_produits {
+    margin: 10px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.page_produits {
+    padding: 1px 100px;
+    margin: auto;
+}
+
+.container_produits {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+.illus_produits {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background: #006f45;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position-x: 50px;
+    background-position-y: 50px;
+    margin-bottom: 30px;
+}
+
+.csColumn {
+    margin-left: 100px;
+}
+
+
+/*media queries*/
+
+@media screen and (max-width: 640px) {
+    .valeurs {
+        display: block;
+    }
+    .container_titre {
+        padding: 20px;
+    }
+    .uiScaledImageContainer {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 940px) {
+    .bloc_outrouver {
+        display: flex;
+        flex-direction: column;
+    }
+    .bloc_outrouver1 {
+        width: 90%;
+    }
+    .bloc_outrouver2 {
+        width: 90%;
+    }
+    .bloc_outrouver3 {
+        width: 90%;
+    }
+    iframe {
+        width: 80%;
+        height: 250px;
+    }
+    #colophon-inside {
+        display: flex;
+        flex-direction: column;
+    }
+}

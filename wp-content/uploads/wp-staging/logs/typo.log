@@ -1,0 +1,450 @@
+[INFO]-[2018/10/07 19:37:04] DB Copy: Creating table wpstg0_bwg_album
+[INFO]-[2018/10/07 19:37:04] DB Copy: Creating table wpstg0_bwg_album
+[INFO]-[2018/10/07 19:37:05] DB Copy: Creating table wpstg0_bwg_album_gallery
+[INFO]-[2018/10/07 19:37:05] DB Copy: Creating table wpstg0_bwg_album_gallery
+[INFO]-[2018/10/07 19:37:05] DB Copy: Creating table wpstg0_bwg_gallery
+[INFO]-[2018/10/07 19:37:05] DB Copy: Creating table wpstg0_bwg_gallery
+[INFO]-[2018/10/07 19:37:05] DB Copy: Creating table wpstg0_bwg_image
+[INFO]-[2018/10/07 19:37:05] DB Copy: Creating table wpstg0_bwg_image
+[INFO]-[2018/10/07 19:37:06] DB Copy: Creating table wpstg0_bwg_image_comment
+[INFO]-[2018/10/07 19:37:06] DB Copy: Creating table wpstg0_bwg_image_comment
+[INFO]-[2018/10/07 19:37:06] DB Copy: Creating table wpstg0_bwg_image_rate
+[INFO]-[2018/10/07 19:37:06] DB Copy: Creating table wpstg0_bwg_image_rate
+[INFO]-[2018/10/07 19:37:07] DB Copy: Creating table wpstg0_bwg_image_tag
+[INFO]-[2018/10/07 19:37:07] DB Copy: Creating table wpstg0_bwg_image_tag
+[INFO]-[2018/10/07 19:37:07] DB Copy: Creating table wpstg0_bwg_shortcode
+[INFO]-[2018/10/07 19:37:08] DB Copy: wp_bwg_shortcode as wpstg0_bwg_shortcode from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:07] DB Copy: Creating table wpstg0_bwg_shortcode
+[INFO]-[2018/10/07 19:37:08] DB Copy: wp_bwg_shortcode as wpstg0_bwg_shortcode from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:08] DB Copy: Creating table wpstg0_bwg_theme
+[INFO]-[2018/10/07 19:37:08] DB Copy: wp_bwg_theme as wpstg0_bwg_theme from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:08] DB Copy: Creating table wpstg0_bwg_theme
+[INFO]-[2018/10/07 19:37:08] DB Copy: wp_bwg_theme as wpstg0_bwg_theme from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:08] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2018/10/07 19:37:08] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2018/10/07 19:37:09] DB Copy: Creating table wpstg0_comments
+[INFO]-[2018/10/07 19:37:09] DB Copy: Creating table wpstg0_comments
+[INFO]-[2018/10/07 19:37:10] DB Copy: Creating table wpstg0_duplicator_packages
+[INFO]-[2018/10/07 19:37:10] DB Copy: wp_duplicator_packages as wpstg0_duplicator_packages from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:10] DB Copy: Creating table wpstg0_duplicator_packages
+[INFO]-[2018/10/07 19:37:10] DB Copy: wp_duplicator_packages as wpstg0_duplicator_packages from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:10] DB Copy: Creating table wpstg0_ewwwio_images
+[INFO]-[2018/10/07 19:37:11] DB Copy: wp_ewwwio_images as wpstg0_ewwwio_images from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:10] DB Copy: Creating table wpstg0_ewwwio_images
+[INFO]-[2018/10/07 19:37:11] DB Copy: wp_ewwwio_images as wpstg0_ewwwio_images from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:11] DB Copy: Creating table wpstg0_gmwd_circles
+[INFO]-[2018/10/07 19:37:11] DB Copy: Creating table wpstg0_gmwd_circles
+[INFO]-[2018/10/07 19:37:12] DB Copy: Creating table wpstg0_gmwd_maps
+[INFO]-[2018/10/07 19:37:12] DB Copy: wp_gmwd_maps as wpstg0_gmwd_maps from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:12] DB Copy: Creating table wpstg0_gmwd_maps
+[INFO]-[2018/10/07 19:37:12] DB Copy: wp_gmwd_maps as wpstg0_gmwd_maps from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:12] DB Copy: Creating table wpstg0_gmwd_mapstyles
+[INFO]-[2018/10/07 19:37:12] DB Copy: Creating table wpstg0_gmwd_mapstyles
+[INFO]-[2018/10/07 19:37:13] DB Copy: Creating table wpstg0_gmwd_markercategories
+[INFO]-[2018/10/07 19:37:13] DB Copy: Creating table wpstg0_gmwd_markercategories
+[INFO]-[2018/10/07 19:37:13] DB Copy: Creating table wpstg0_gmwd_markers
+[INFO]-[2018/10/07 19:37:14] DB Copy: wp_gmwd_markers as wpstg0_gmwd_markers from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:13] DB Copy: Creating table wpstg0_gmwd_markers
+[INFO]-[2018/10/07 19:37:14] DB Copy: wp_gmwd_markers as wpstg0_gmwd_markers from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:14] DB Copy: Creating table wpstg0_gmwd_options
+[INFO]-[2018/10/07 19:37:14] DB Copy: wp_gmwd_options as wpstg0_gmwd_options from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:14] DB Copy: Creating table wpstg0_gmwd_options
+[INFO]-[2018/10/07 19:37:14] DB Copy: wp_gmwd_options as wpstg0_gmwd_options from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:14] DB Copy: Creating table wpstg0_gmwd_polygons
+[INFO]-[2018/10/07 19:37:15] DB Copy: wp_gmwd_polygons as wpstg0_gmwd_polygons from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:14] DB Copy: Creating table wpstg0_gmwd_polygons
+[INFO]-[2018/10/07 19:37:15] DB Copy: wp_gmwd_polygons as wpstg0_gmwd_polygons from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:15] DB Copy: Creating table wpstg0_gmwd_polylines
+[INFO]-[2018/10/07 19:37:15] DB Copy: wp_gmwd_polylines as wpstg0_gmwd_polylines from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:15] DB Copy: Creating table wpstg0_gmwd_polylines
+[INFO]-[2018/10/07 19:37:15] DB Copy: wp_gmwd_polylines as wpstg0_gmwd_polylines from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:15] DB Copy: Creating table wpstg0_gmwd_rectangles
+[INFO]-[2018/10/07 19:37:15] DB Copy: Creating table wpstg0_gmwd_rectangles
+[INFO]-[2018/10/07 19:37:16] DB Copy: Creating table wpstg0_gmwd_shortcodes
+[INFO]-[2018/10/07 19:37:16] DB Copy: wp_gmwd_shortcodes as wpstg0_gmwd_shortcodes from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:16] DB Copy: Creating table wpstg0_gmwd_shortcodes
+[INFO]-[2018/10/07 19:37:16] DB Copy: wp_gmwd_shortcodes as wpstg0_gmwd_shortcodes from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:16] DB Copy: Creating table wpstg0_gmwd_themes
+[INFO]-[2018/10/07 19:37:17] DB Copy: wp_gmwd_themes as wpstg0_gmwd_themes from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:16] DB Copy: Creating table wpstg0_gmwd_themes
+[INFO]-[2018/10/07 19:37:17] DB Copy: wp_gmwd_themes as wpstg0_gmwd_themes from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:17] DB Copy: Creating table wpstg0_links
+[INFO]-[2018/10/07 19:37:17] DB Copy: Creating table wpstg0_links
+[INFO]-[2018/10/07 19:37:17] DB Copy: Creating table wpstg0_mailpoet_custom_fields
+[INFO]-[2018/10/07 19:37:17] DB Copy: Creating table wpstg0_mailpoet_custom_fields
+[INFO]-[2018/10/07 19:37:18] DB Copy: Creating table wpstg0_mailpoet_forms
+[INFO]-[2018/10/07 19:37:18] DB Copy: Creating table wpstg0_mailpoet_forms
+[INFO]-[2018/10/07 19:37:18] DB Copy: Creating table wpstg0_mailpoet_mapping_to_external_entities
+[INFO]-[2018/10/07 19:37:18] DB Copy: Creating table wpstg0_mailpoet_mapping_to_external_entities
+[INFO]-[2018/10/07 19:37:19] DB Copy: Creating table wpstg0_mailpoet_newsletter_links
+[INFO]-[2018/10/07 19:37:19] DB Copy: Creating table wpstg0_mailpoet_newsletter_links
+[INFO]-[2018/10/07 19:37:19] DB Copy: Creating table wpstg0_mailpoet_newsletter_option
+[INFO]-[2018/10/07 19:37:19] DB Copy: Creating table wpstg0_mailpoet_newsletter_option
+[INFO]-[2018/10/07 19:37:20] DB Copy: Creating table wpstg0_mailpoet_newsletter_option_fields
+[INFO]-[2018/10/07 19:37:20] DB Copy: wp_mailpoet_newsletter_option_fields as wpstg0_mailpoet_newsletter_option_fields from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:20] DB Copy: Creating table wpstg0_mailpoet_newsletter_option_fields
+[INFO]-[2018/10/07 19:37:20] DB Copy: wp_mailpoet_newsletter_option_fields as wpstg0_mailpoet_newsletter_option_fields from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:20] DB Copy: Creating table wpstg0_mailpoet_newsletter_posts
+[INFO]-[2018/10/07 19:37:20] DB Copy: Creating table wpstg0_mailpoet_newsletter_posts
+[INFO]-[2018/10/07 19:37:21] DB Copy: Creating table wpstg0_mailpoet_newsletter_segment
+[INFO]-[2018/10/07 19:37:21] DB Copy: Creating table wpstg0_mailpoet_newsletter_segment
+[INFO]-[2018/10/07 19:37:21] DB Copy: Creating table wpstg0_mailpoet_newsletter_templates
+[INFO]-[2018/10/07 19:37:22] DB Copy: wp_mailpoet_newsletter_templates as wpstg0_mailpoet_newsletter_templates from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:21] DB Copy: Creating table wpstg0_mailpoet_newsletter_templates
+[INFO]-[2018/10/07 19:37:22] DB Copy: wp_mailpoet_newsletter_templates as wpstg0_mailpoet_newsletter_templates from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:23] DB Copy: Creating table wpstg0_mailpoet_newsletters
+[INFO]-[2018/10/07 19:37:23] DB Copy: Creating table wpstg0_mailpoet_newsletters
+[INFO]-[2018/10/07 19:37:23] DB Copy: Creating table wpstg0_mailpoet_scheduled_task_subscribers
+[INFO]-[2018/10/07 19:37:23] DB Copy: Creating table wpstg0_mailpoet_scheduled_task_subscribers
+[INFO]-[2018/10/07 19:37:24] DB Copy: Creating table wpstg0_mailpoet_scheduled_tasks
+[INFO]-[2018/10/07 19:37:24] DB Copy: Creating table wpstg0_mailpoet_scheduled_tasks
+[INFO]-[2018/10/07 19:37:24] DB Copy: Creating table wpstg0_mailpoet_segments
+[INFO]-[2018/10/07 19:37:25] DB Copy: wp_mailpoet_segments as wpstg0_mailpoet_segments from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:24] DB Copy: Creating table wpstg0_mailpoet_segments
+[INFO]-[2018/10/07 19:37:25] DB Copy: wp_mailpoet_segments as wpstg0_mailpoet_segments from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:25] DB Copy: Creating table wpstg0_mailpoet_sending_queues
+[INFO]-[2018/10/07 19:37:25] DB Copy: Creating table wpstg0_mailpoet_sending_queues
+[INFO]-[2018/10/07 19:37:26] DB Copy: Creating table wpstg0_mailpoet_settings
+[INFO]-[2018/10/07 19:37:26] DB Copy: wp_mailpoet_settings as wpstg0_mailpoet_settings from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:26] DB Copy: Creating table wpstg0_mailpoet_settings
+[INFO]-[2018/10/07 19:37:26] DB Copy: wp_mailpoet_settings as wpstg0_mailpoet_settings from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:26] DB Copy: Creating table wpstg0_mailpoet_statistics_clicks
+[INFO]-[2018/10/07 19:37:26] DB Copy: Creating table wpstg0_mailpoet_statistics_clicks
+[INFO]-[2018/10/07 19:37:27] DB Copy: Creating table wpstg0_mailpoet_statistics_forms
+[INFO]-[2018/10/07 19:37:27] DB Copy: Creating table wpstg0_mailpoet_statistics_forms
+[INFO]-[2018/10/07 19:37:27] DB Copy: Creating table wpstg0_mailpoet_statistics_newsletters
+[INFO]-[2018/10/07 19:37:27] DB Copy: Creating table wpstg0_mailpoet_statistics_newsletters
+[INFO]-[2018/10/07 19:37:28] DB Copy: Creating table wpstg0_mailpoet_statistics_opens
+[INFO]-[2018/10/07 19:37:28] DB Copy: Creating table wpstg0_mailpoet_statistics_opens
+[INFO]-[2018/10/07 19:37:29] DB Copy: Creating table wpstg0_mailpoet_statistics_unsubscribes
+[INFO]-[2018/10/07 19:37:29] DB Copy: Creating table wpstg0_mailpoet_statistics_unsubscribes
+[INFO]-[2018/10/07 19:37:29] DB Copy: Creating table wpstg0_mailpoet_subscriber_custom_field
+[INFO]-[2018/10/07 19:37:29] DB Copy: Creating table wpstg0_mailpoet_subscriber_custom_field
+[INFO]-[2018/10/07 19:37:30] DB Copy: Creating table wpstg0_mailpoet_subscriber_segment
+[INFO]-[2018/10/07 19:37:30] DB Copy: wp_mailpoet_subscriber_segment as wpstg0_mailpoet_subscriber_segment from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:30] DB Copy: Creating table wpstg0_mailpoet_subscriber_segment
+[INFO]-[2018/10/07 19:37:30] DB Copy: wp_mailpoet_subscriber_segment as wpstg0_mailpoet_subscriber_segment from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:30] DB Copy: Creating table wpstg0_mailpoet_subscribers
+[INFO]-[2018/10/07 19:37:31] DB Copy: wp_mailpoet_subscribers as wpstg0_mailpoet_subscribers from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:30] DB Copy: Creating table wpstg0_mailpoet_subscribers
+[INFO]-[2018/10/07 19:37:31] DB Copy: wp_mailpoet_subscribers as wpstg0_mailpoet_subscribers from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:31] DB Copy: Creating table wpstg0_mappress_maps
+[INFO]-[2018/10/07 19:37:31] DB Copy: Creating table wpstg0_mappress_maps
+[INFO]-[2018/10/07 19:37:32] DB Copy: Creating table wpstg0_mappress_posts
+[INFO]-[2018/10/07 19:37:32] DB Copy: Creating table wpstg0_mappress_posts
+[INFO]-[2018/10/07 19:37:32] DB Copy: Creating table wpstg0_ngg_album
+[INFO]-[2018/10/07 19:37:32] DB Copy: Creating table wpstg0_ngg_album
+[INFO]-[2018/10/07 19:37:33] DB Copy: Creating table wpstg0_ngg_gallery
+[INFO]-[2018/10/07 19:37:33] DB Copy: wp_ngg_gallery as wpstg0_ngg_gallery from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:33] DB Copy: Creating table wpstg0_ngg_gallery
+[INFO]-[2018/10/07 19:37:33] DB Copy: wp_ngg_gallery as wpstg0_ngg_gallery from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:33] DB Copy: Creating table wpstg0_ngg_pictures
+[INFO]-[2018/10/07 19:37:34] DB Copy: wp_ngg_pictures as wpstg0_ngg_pictures from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:33] DB Copy: Creating table wpstg0_ngg_pictures
+[INFO]-[2018/10/07 19:37:34] DB Copy: wp_ngg_pictures as wpstg0_ngg_pictures from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:34] DB Copy: Creating table wpstg0_options
+[INFO]-[2018/10/07 19:37:35] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:34] DB Copy: Creating table wpstg0_options
+[INFO]-[2018/10/07 19:37:35] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:36] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2018/10/07 19:37:37] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:36] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2018/10/07 19:37:37] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:39] DB Copy: Creating table wpstg0_posts
+[INFO]-[2018/10/07 19:37:39] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:39] DB Copy: Creating table wpstg0_posts
+[INFO]-[2018/10/07 19:37:39] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:41] DB Copy: Creating table wpstg0_slp_extendo_meta
+[INFO]-[2018/10/07 19:37:41] DB Copy: Creating table wpstg0_slp_extendo_meta
+[INFO]-[2018/10/07 19:37:42] DB Copy: Creating table wpstg0_smush_dir_images
+[INFO]-[2018/10/07 19:37:42] DB Copy: Creating table wpstg0_smush_dir_images
+[INFO]-[2018/10/07 19:37:43] DB Copy: Creating table wpstg0_store_locator
+[INFO]-[2018/10/07 19:37:43] DB Copy: wp_store_locator as wpstg0_store_locator from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:43] DB Copy: Creating table wpstg0_store_locator
+[INFO]-[2018/10/07 19:37:43] DB Copy: wp_store_locator as wpstg0_store_locator from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:43] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2018/10/07 19:37:44] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:43] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2018/10/07 19:37:44] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:44] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2018/10/07 19:37:45] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:44] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2018/10/07 19:37:45] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:45] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2018/10/07 19:37:45] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2018/10/07 19:37:46] DB Copy: Creating table wpstg0_terms
+[INFO]-[2018/10/07 19:37:46] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:46] DB Copy: Creating table wpstg0_terms
+[INFO]-[2018/10/07 19:37:46] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:46] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2018/10/07 19:37:47] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:46] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2018/10/07 19:37:47] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:47] DB Copy: Creating table wpstg0_users
+[INFO]-[2018/10/07 19:37:48] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:47] DB Copy: Creating table wpstg0_users
+[INFO]-[2018/10/07 19:37:48] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:48] DB Copy: Creating table wpstg0_woocommerce_api_keys
+[INFO]-[2018/10/07 19:37:48] DB Copy: Creating table wpstg0_woocommerce_api_keys
+[INFO]-[2018/10/07 19:37:49] DB Copy: Creating table wpstg0_woocommerce_attribute_taxonomies
+[INFO]-[2018/10/07 19:37:49] DB Copy: Creating table wpstg0_woocommerce_attribute_taxonomies
+[INFO]-[2018/10/07 19:37:49] DB Copy: Creating table wpstg0_woocommerce_downloadable_product_permissions
+[INFO]-[2018/10/07 19:37:49] DB Copy: Creating table wpstg0_woocommerce_downloadable_product_permissions
+[INFO]-[2018/10/07 19:37:50] DB Copy: Creating table wpstg0_woocommerce_log
+[INFO]-[2018/10/07 19:37:50] DB Copy: Creating table wpstg0_woocommerce_log
+[INFO]-[2018/10/07 19:37:50] DB Copy: Creating table wpstg0_woocommerce_order_itemmeta
+[INFO]-[2018/10/07 19:37:50] DB Copy: Creating table wpstg0_woocommerce_order_itemmeta
+[INFO]-[2018/10/07 19:37:51] DB Copy: Creating table wpstg0_woocommerce_order_items
+[INFO]-[2018/10/07 19:37:51] DB Copy: Creating table wpstg0_woocommerce_order_items
+[INFO]-[2018/10/07 19:37:51] DB Copy: Creating table wpstg0_woocommerce_payment_tokenmeta
+[INFO]-[2018/10/07 19:37:51] DB Copy: Creating table wpstg0_woocommerce_payment_tokenmeta
+[INFO]-[2018/10/07 19:37:52] DB Copy: Creating table wpstg0_woocommerce_payment_tokens
+[INFO]-[2018/10/07 19:37:52] DB Copy: Creating table wpstg0_woocommerce_payment_tokens
+[INFO]-[2018/10/07 19:37:53] DB Copy: Creating table wpstg0_woocommerce_sessions
+[INFO]-[2018/10/07 19:37:54] DB Copy: wp_woocommerce_sessions as wpstg0_woocommerce_sessions from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:53] DB Copy: Creating table wpstg0_woocommerce_sessions
+[INFO]-[2018/10/07 19:37:54] DB Copy: wp_woocommerce_sessions as wpstg0_woocommerce_sessions from 0 to 10000 records
+[INFO]-[2018/10/07 19:37:54] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_locations
+[INFO]-[2018/10/07 19:37:54] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_locations
+[INFO]-[2018/10/07 19:37:55] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_methods
+[INFO]-[2018/10/07 19:37:55] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_methods
+[INFO]-[2018/10/07 19:37:56] DB Copy: Creating table wpstg0_woocommerce_shipping_zones
+[INFO]-[2018/10/07 19:37:56] DB Copy: Creating table wpstg0_woocommerce_shipping_zones
+[INFO]-[2018/10/07 19:37:57] DB Copy: Creating table wpstg0_woocommerce_tax_rate_locations
+[INFO]-[2018/10/07 19:37:57] DB Copy: Creating table wpstg0_woocommerce_tax_rate_locations
+[INFO]-[2018/10/07 19:37:58] DB Copy: Creating table wpstg0_woocommerce_tax_rates
+[INFO]-[2018/10/07 19:37:58] DB Copy: Creating table wpstg0_woocommerce_tax_rates
+[INFO]-[2018/10/07 19:38:00] DB Copy: Creating table wpstg0_wpgmza
+[INFO]-[2018/10/07 19:38:01] DB Copy: wp_wpgmza as wpstg0_wpgmza from 0 to 10000 records
+[INFO]-[2018/10/07 19:38:00] DB Copy: Creating table wpstg0_wpgmza
+[INFO]-[2018/10/07 19:38:01] DB Copy: wp_wpgmza as wpstg0_wpgmza from 0 to 10000 records
+[INFO]-[2018/10/07 19:38:02] DB Copy: Creating table wpstg0_wpgmza_categories
+[INFO]-[2018/10/07 19:38:02] DB Copy: Creating table wpstg0_wpgmza_categories
+[INFO]-[2018/10/07 19:38:03] DB Copy: Creating table wpstg0_wpgmza_category_maps
+[INFO]-[2018/10/07 19:38:03] DB Copy: Creating table wpstg0_wpgmza_category_maps
+[INFO]-[2018/10/07 19:38:04] DB Copy: Creating table wpstg0_wpgmza_maps
+[INFO]-[2018/10/07 19:38:05] DB Copy: wp_wpgmza_maps as wpstg0_wpgmza_maps from 0 to 10000 records
+[INFO]-[2018/10/07 19:38:04] DB Copy: Creating table wpstg0_wpgmza_maps
+[INFO]-[2018/10/07 19:38:05] DB Copy: wp_wpgmza_maps as wpstg0_wpgmza_maps from 0 to 10000 records
+[INFO]-[2018/10/07 19:38:05] DB Copy: Creating table wpstg0_wpgmza_polygon
+[INFO]-[2018/10/07 19:38:05] DB Copy: Creating table wpstg0_wpgmza_polygon
+[INFO]-[2018/10/07 19:38:06] DB Copy: Creating table wpstg0_wpgmza_polylines
+[INFO]-[2018/10/07 19:38:06] DB Copy: Creating table wpstg0_wpgmza_polylines
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:14] DB Processing:  Table wpstg0_bwg_shortcode 0 to 5000 records
+[INFO]-[2018/10/07 19:38:14] DB Processing:  Table wpstg0_bwg_shortcode 0 to 5000 records
+[INFO]-[2018/10/07 19:38:15] DB Processing:  Table wpstg0_bwg_theme 0 to 5000 records
+[INFO]-[2018/10/07 19:38:15] DB Processing:  Table wpstg0_bwg_theme 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:18] DB Processing:  Table wpstg0_duplicator_packages 0 to 5000 records
+[INFO]-[2018/10/07 19:38:18] DB Processing:  Table wpstg0_duplicator_packages 0 to 5000 records
+[INFO]-[2018/10/07 19:38:19] DB Processing:  Table wpstg0_ewwwio_images 0 to 5000 records
+[INFO]-[2018/10/07 19:38:19] DB Processing:  Table wpstg0_ewwwio_images 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:21] DB Processing:  Table wpstg0_gmwd_maps 0 to 5000 records
+[INFO]-[2018/10/07 19:38:21] DB Processing:  Table wpstg0_gmwd_maps 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:24] DB Processing:  Table wpstg0_gmwd_markers 0 to 5000 records
+[INFO]-[2018/10/07 19:38:24] DB Processing:  Table wpstg0_gmwd_markers 0 to 5000 records
+[INFO]-[2018/10/07 19:38:25] DB Processing:  Table wpstg0_gmwd_options 0 to 5000 records
+[INFO]-[2018/10/07 19:38:25] DB Processing:  Table wpstg0_gmwd_options 0 to 5000 records
+[INFO]-[2018/10/07 19:38:26] DB Processing:  Table wpstg0_gmwd_polygons 0 to 5000 records
+[INFO]-[2018/10/07 19:38:26] DB Processing:  Table wpstg0_gmwd_polygons 0 to 5000 records
+[INFO]-[2018/10/07 19:38:27] DB Processing:  Table wpstg0_gmwd_polylines 0 to 5000 records
+[INFO]-[2018/10/07 19:38:27] DB Processing:  Table wpstg0_gmwd_polylines 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:29] DB Processing:  Table wpstg0_gmwd_shortcodes 0 to 5000 records
+[INFO]-[2018/10/07 19:38:29] DB Processing:  Table wpstg0_gmwd_shortcodes 0 to 5000 records
+[INFO]-[2018/10/07 19:38:30] DB Processing:  Table wpstg0_gmwd_themes 0 to 5000 records
+[INFO]-[2018/10/07 19:38:30] DB Processing:  Table wpstg0_gmwd_themes 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:37] DB Processing:  Table wpstg0_mailpoet_newsletter_option_fields 0 to 5000 records
+[INFO]-[2018/10/07 19:38:37] DB Processing:  Table wpstg0_mailpoet_newsletter_option_fields 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:40] DB Processing:  Table wpstg0_mailpoet_newsletter_templates 0 to 5000 records
+[INFO]-[2018/10/07 19:38:40] DB Processing:  Table wpstg0_mailpoet_newsletter_templates 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:42] DB Processing:  Table wpstg0_mailpoet_segments 0 to 5000 records
+[INFO]-[2018/10/07 19:38:42] DB Processing:  Table wpstg0_mailpoet_segments 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:42] DB Processing:  Table wpstg0_mailpoet_settings 0 to 5000 records
+[INFO]-[2018/10/07 19:38:42] DB Processing:  Table wpstg0_mailpoet_settings 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:42] DB Processing:  Table wpstg0_mailpoet_subscriber_segment 0 to 5000 records
+[INFO]-[2018/10/07 19:38:42] DB Processing:  Table wpstg0_mailpoet_subscriber_segment 0 to 5000 records
+[INFO]-[2018/10/07 19:38:42] DB Processing:  Table wpstg0_mailpoet_subscribers 0 to 5000 records
+[INFO]-[2018/10/07 19:38:42] DB Processing:  Table wpstg0_mailpoet_subscribers 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:42] DB Processing:  Table wpstg0_ngg_gallery 0 to 5000 records
+[INFO]-[2018/10/07 19:38:42] DB Processing:  Table wpstg0_ngg_gallery 0 to 5000 records
+[INFO]-[2018/10/07 19:38:42] DB Processing:  Table wpstg0_ngg_pictures 0 to 5000 records
+[INFO]-[2018/10/07 19:38:42] DB Processing:  Table wpstg0_ngg_pictures 0 to 5000 records
+[INFO]-[2018/10/07 19:38:42] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2018/10/07 19:38:42] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2018/10/07 19:38:43] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2018/10/07 19:38:43] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2018/10/07 19:38:43] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2018/10/07 19:38:43] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:43] DB Processing:  Table wpstg0_store_locator 0 to 5000 records
+[INFO]-[2018/10/07 19:38:43] DB Processing:  Table wpstg0_store_locator 0 to 5000 records
+[INFO]-[2018/10/07 19:38:43] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2018/10/07 19:38:43] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2018/10/07 19:38:44] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2018/10/07 19:38:44] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:44] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2018/10/07 19:38:44] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2018/10/07 19:38:44] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2018/10/07 19:38:44] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2018/10/07 19:38:44] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2018/10/07 19:38:44] DB Processing:  Table wpstg0_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:44] DB Processing:  Table wpstg0_woocommerce_sessions 0 to 5000 records
+[INFO]-[2018/10/07 19:38:44] DB Processing:  Table wpstg0_woocommerce_sessions 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:44] DB Processing:  Table wpstg0_wpgmza 0 to 5000 records
+[INFO]-[2018/10/07 19:38:44] DB Processing:  Table wpstg0_wpgmza 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:45] DB Processing:  Table wpstg0_wpgmza_maps 0 to 5000 records
+[INFO]-[2018/10/07 19:38:45] DB Processing:  Table wpstg0_wpgmza_maps 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/07 19:38:45] Scanning / for files
+[INFO]-[2018/10/07 19:38:45] Scanning / for files
+[INFO]-[2018/10/07 19:38:45] Scanning /wp-content for its sub-directories and files
+[INFO]-[2018/10/07 19:38:45] Scanning /wp-content for its sub-directories and files
+[INFO]-[2018/10/07 19:38:46] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2018/10/07 19:38:46] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2018/10/07 19:38:46] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2018/10/07 19:38:46] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2018/10/07 19:38:46] Copying files...
+[INFO]-[2018/10/07 19:38:47] Total 50 files processed
+[INFO]-[2018/10/07 19:38:46] Copying files...
+[INFO]-[2018/10/07 19:38:47] Total 50 files processed
+[INFO]-[2018/10/07 19:38:47] Total 100 files processed
+[INFO]-[2018/10/07 19:38:47] Total 100 files processed
+[INFO]-[2018/10/07 19:38:47] Total 150 files processed
+[INFO]-[2018/10/07 19:38:47] Total 150 files processed
+[INFO]-[2018/10/07 19:38:47] Total 200 files processed
+[INFO]-[2018/10/07 19:38:47] Total 200 files processed
+[INFO]-[2018/10/07 19:38:47] Total 250 files processed
+[INFO]-[2018/10/07 19:38:47] Total 250 files processed
+[INFO]-[2018/10/07 19:38:47] Total 300 files processed
+[INFO]-[2018/10/07 19:38:47] Total 300 files processed
+[INFO]-[2018/10/07 19:38:47] Total 350 files processed
+[INFO]-[2018/10/07 19:38:47] Total 350 files processed
+[INFO]-[2018/10/07 19:38:48] Total 400 files processed
+[INFO]-[2018/10/07 19:38:48] Total 400 files processed
+[INFO]-[2018/10/07 19:38:48] Total 450 files processed
+[INFO]-[2018/10/07 19:38:48] Total 450 files processed
+[INFO]-[2018/10/07 19:38:48] Total 500 files processed
+[INFO]-[2018/10/07 19:38:48] Total 500 files processed
+[INFO]-[2018/10/07 19:38:48] Total 550 files processed
+[INFO]-[2018/10/07 19:38:48] Total 550 files processed
+[INFO]-[2018/10/07 19:38:48] Total 600 files processed
+[INFO]-[2018/10/07 19:38:48] Total 600 files processed
+[INFO]-[2018/10/07 19:38:48] Total 650 files processed
+[INFO]-[2018/10/07 19:38:48] Total 650 files processed
+[INFO]-[2018/10/07 19:38:49] Total 700 files processed
+[INFO]-[2018/10/07 19:38:49] Total 700 files processed
+[INFO]-[2018/10/07 19:38:49] Total 750 files processed
+[INFO]-[2018/10/07 19:38:49] Total 750 files processed
+[INFO]-[2018/10/07 19:38:49] Total 800 files processed
+[INFO]-[2018/10/07 19:38:49] Total 800 files processed
+[INFO]-[2018/10/07 19:38:50] Total 850 files processed
+[INFO]-[2018/10/07 19:38:50] Total 850 files processed
